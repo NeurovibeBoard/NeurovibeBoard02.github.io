@@ -1,201 +1,139 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Neurovibe</title>
-  <link rel="stylesheet" href="style.css">
-  <meta name="description" content="Neurovibe - A student-made tech startup building AI tools and student technology.">
-</head>
-<body>
-
-  <!-- NAVBAR -->
-  <nav class="navbar">
-    <h2 class="logo">Neurovibe</h2>
-    <ul>
-      <li><a href="#about">About</a></li>
-      <li><a href="#services">Services</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
-
-  <!-- HERO -->
-  <header class="hero">
-    <div class="hero-content">
-      <h1>NEUROVIBE</h1>
-      <p>Engineering the Future with Intelligence</p>
-      <a href="#services" class="btn">Explore</a>
-    </div>
-  </header>
-
-  <!-- ABOUT -->
-  <section id="about" class="section">
-    <h2>About Us</h2>
-    <p class="center-text">
-      Neurovibe is a **student-made tech startup** creating intelligent solutions for students, creators, and innovators. 
-      Our mission is to turn ideas into real technology.
-    </p>
-  </section>
-
-  <!-- SERVICES -->
-  <section id="services" class="section dark">
-    <h2>What We Do</h2>
-    <div class="card-container">
-      <div class="card">
-        <h3>AI Solutions</h3>
-        <p>Real-world AI apps for students, creators, and startups.</p>
-      </div>
-      <div class="card">
-        <h3>Web & App Development</h3>
-        <p>Modern, secure, and responsive websites and applications.</p>
-      </div>
-      <div class="card">
-        <h3>Automation</h3>
-        <p>Smart systems that save time and boost productivity.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- PROJECTS -->
-  <section id="projects" class="section">
-    <h2>Our Projects</h2>
-    <div class="card-container">
-      <div class="card">
-        <h3>Stutech</h3>
-        <p>Advanced student toolkit built by Neurovibe.</p>
-      </div>
-      <div class="card">
-        <h3>AI Tools</h3>
-        <p>Next-gen AI apps designed for learning and productivity.</p>
-      </div>
-      <div class="card">
-        <h3>Future Labs</h3>
-        <p>Experimental technology shaping tomorrow.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- CONTACT -->
-  <section id="contact" class="section dark">
-    <h2>Contact</h2>
-    <p class="center-text">Let’s build something powerful together.</p>
-    <div class="contact-box">
-      <p>Email: <b>neurovibe@email.com</b></p>
-      <p>GitHub: <b>github.com/yourusername</b></p>
-    </div>
-  </section>
-
-  <!-- FOOTER -->
-  <footer>
-    <p>© 2026 Neurovibe. All Rights Reserved.</p>
-  </footer>
-
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Neurovibe</title>
-  <link rel="stylesheet" href="style.css">
-  <meta name="description" content="Neurovibe - A student-made tech startup building AI tools and student technology.">
-</head>
-<body>
-
-  <!-- NAVBAR -->
-  <nav class="navbar">
-    <h2 class="logo">Neurovibe</h2>
-    <ul>
-      <li><a href="#about">About</a></li>
-      <li><a href="#services">Services</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
-
-  <!-- HERO -->
-  <header class="hero">
-    <div class="hero-content">
-      <h1>NEUROVIBE</h1>
-      <p>Engineering the Future with Intelligence</p>
-      <a href="#services" class="btn">Explore</a>
-    </div>
-  </header>
-
-  <!-- ABOUT -->
-  <section id="about" class="section">
-    <h2>About Us</h2>
-    <p class="center-text">
-      Neurovibe is a <b>student-made tech startup</b> creating intelligent solutions for students, creators, and innovators.
-      Our mission is to turn ideas into real technology.
-    </p>
-  </section>
-
-  <!-- SERVICES -->
-  <section id="services" class="section dark">
-    <h2>What We Do</h2>
-    <div class="card-container">
-      <div class="card">
-        <h3>AI Solutions</h3>
-        <p>Real-world AI apps for students, creators, and startups.</p>
-      </div>
-      <div class="card">
-        <h3>Web & App Development</h3>
-        <p>Modern, secure, and responsive websites and applications.</p>
-      </div>
-      <div class="card">
-        <h3>Automation</h3>
-        <p>Smart systems that save time and boost productivity.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- PROJECTS -->
-  <section id="projects" class="section">
-    <h2>Our Projects</h2>
-    <div class="card-container">
-      <div class="card">
-        <h3>Stutech</h3>
-        <p>Advanced student toolkit built by Neurovibe.</p>
-      </div>
-      <div class="card">
-        <h3>AI Tools</h3>
-        <p>Next-gen AI apps designed for learning and productivity.</p>
-      </div>
-      <div class="card">
-        <h3>Future Labs</h3>
-        <p>Experimental technology shaping tomorrow.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- CONTACT -->
-  <section id="contact" class="section dark">
-    <h2>Contact</h2>
-    <p class="center-text">Let’s build something powerful together.</p>
-    <div class="contact-box">
-      <p>Email: <b>neurovibe@email.com</b></p>
-      <p>GitHub: <b>github.com/yourusername</b></p>
-    </div>
-  </section>
-
-  <!-- FOOTER -->
-  <footer>
-    <p>© 2026 Neurovibe. All Rights Reserved.</p>
-  </footer>
-
-  <!-- SCROLL FADE-IN SCRIPT -->
-  <script>
-    const sections = document.querySelectorAll('.section');
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if(entry.isIntersecting) entry.target.classList.add('visible');
-      });
-    }, { threshold: 0.2 });
-    sections.forEach(section => observer.observe(section));
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Modern Accessible HTML Template</title>
+  <meta name="description" content="A modern, accessible, responsive HTML template with progressive enhancement." />
+  <meta name="theme-color" content="#0b74de" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="favicon.svg" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="script.js"></script>
+  <meta name="author" content="Your Name or Organization">
+  <!-- Structured data (basic) -->
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebSite",
+    "name":"Modern Accessible HTML Template",
+    "url":"https://example.com"
+  }
   </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
 
+  <header class="site-header" role="banner">
+    <div class="container header-inner">
+      <a class="brand" href="#" aria-label="Home">
+        <svg class="brand-logo" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <circle cx="12" cy="12" r="10" fill="currentColor"/>
+        </svg>
+        <span class="brand-name">Neurovibe</span>
+      </a>
+
+      <nav class="site-nav" role="navigation" aria-label="Main navigation">
+        <button id="nav-toggle" class="nav-toggle" aria-expanded="false" aria-controls="nav-list">
+          <span class="visually-hidden">Toggle menu</span>
+          <svg width="24" height="24" aria-hidden="true" focusable="false"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+
+        <ul id="nav-list" class="nav-list">
+          <li><a href="#features">Features</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li><button id="theme-toggle" class="theme-toggle" aria-pressed="false" title="Toggle dark mode">🌙</button></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="site-main" role="main">
+    <section class="hero container">
+      <div class="hero-content">
+        <h1 class="hero-title">Fast, accessible, and responsive HTML template</h1>
+        <p class="hero-sub">A small, production-focused starting point with accessibility, performance and progressive enhancement built-in.</p>
+        <p>
+          <a class="btn primary" href="#contact">Get started</a>
+          <a class="btn ghost" href="#features">Learn more</a>
+        </p>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <img src="hero-600.jpg" srcset="hero-400.jpg 400w, hero-800.jpg 800w, hero-1200.jpg 1200w" sizes="(max-width: 800px) 80vw, 40vw" alt="" loading="lazy">
+      </div>
+    </section>
+
+    <section id="features" class="features container">
+      <h2 class="section-title">Features</h2>
+      <div class="grid">
+        <article class="card reveal">
+          <h3>Accessible by default</h3>
+          <p>Proper semantics, skip-link, focus styles, labels and aria attributes to provide a great experience for assistive tech.</p>
+        </article>
+        <article class="card reveal">
+          <h3>Responsive layout</h3>
+          <p>Uses CSS Grid and Flexbox with fluid typography for great results on all screen sizes.</p>
+        </article>
+        <article class="card reveal">
+          <h3>Performance focused</h3>
+          <p>Lazy-loading images, minimal CSS, and a simple service worker for offline-first caching.</p>
+        </article>
+        <article class="card reveal">
+          <h3>Progressive enhancement</h3>
+          <p>Works without JavaScript, but enhances UX when JavaScript is available.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="gallery" class="gallery container">
+      <h2 class="section-title">Gallery</h2>
+      <div class="gallery-grid">
+        <img src="thumb1.jpg" alt="Sample 1" loading="lazy" class="reveal">
+        <img src="thumb2.jpg" alt="Sample 2" loading="lazy" class="reveal">
+        <img src="thumb3.jpg" alt="Sample 3" loading="lazy" class="reveal">
+        <img src="thumb4.jpg" alt="Sample 4" loading="lazy" class="reveal">
+      </div>
+    </section>
+
+    <section id="contact" class="contact container">
+      <h2 class="section-title">Contact</h2>
+      <form id="contact-form" class="form" action="#" method="POST" novalidate>
+        <div class="form-grid">
+          <label for="name">Name
+            <input id="name" name="name" type="text" required minlength="2" autocomplete="name" />
+          </label>
+
+          <label for="email">Email
+            <input id="email" name="email" type="email" required autocomplete="email" />
+          </label>
+
+          <label for="message" class="full">Message
+            <textarea id="message" name="message" rows="6" required minlength="10"></textarea>
+          </label>
+
+          <div class="full form-actions">
+            <button type="submit" class="btn primary">Send message</button>
+            <div id="form-status" role="status" aria-live="polite" class="form-status" hidden></div>
+          </div>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="container footer-inner">
+      <p>&copy; <span id="year"></span> Neurovibe. Built with accessibility & performance in mind.</p>
+      <nav aria-label="Footer">
+        <ul class="footer-links">
+          <li><a href="#">Privacy</a></li>
+          <li><a href="#">Terms</a></li>
+          <li><a href="#">Sitemap</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
 </body>
 </html>
