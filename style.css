@@ -194,3 +194,82 @@ html {
     grid-template-columns: 1fr;
   }
 }
+/* INFO SECTIONS */
+.info-section, .contact-info {
+  padding: 80px 10%;
+  text-align: center;
+}
+
+.info-section h2,
+.contact-info h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.subtitle {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 40px;
+}
+
+/* LEADERSHIP CARDS */
+.info-cards {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.info-card {
+  background: #ffffff;
+  padding: 30px 40px;
+  border-radius: 15px;
+  min-width: 240px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  transition: all 0.3s ease;
+}
+
+.info-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+}
+
+.info-card h3 {
+  font-size: 22px;
+  color: #5b6cff;
+  margin-bottom: 6px;
+}
+
+.role {
+  font-size: 15px;
+  color: #555;
+}
+
+/* CONTACT BOX */
+.contact-box {
+  max-width: 500px;
+  margin: auto;
+  background: linear-gradient(135deg, #5b6cff, #7b88ff);
+  color: white;
+  padding: 35px;
+  border-radius: 18px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
+
+.contact-box p {
+  font-size: 16px;
+  margin: 12px 0;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .info-section h2,
+  .contact-info h2 {
+    font-size: 28px;
+  }
+
+  .info-card {
+    width: 100%;
+  }
+}
